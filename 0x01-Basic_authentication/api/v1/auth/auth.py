@@ -1,5 +1,3 @@
-tion of class Auth
-"""
 from flask import request
 from typing import (
     List,
