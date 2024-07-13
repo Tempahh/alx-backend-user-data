@@ -1,5 +1,3 @@
-er module
-"""
 import hashlib
 from models.base import Base
 
